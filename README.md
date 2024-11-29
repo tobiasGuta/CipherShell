@@ -47,5 +47,19 @@ SecureExec is a secure client-server communication tool that allows remote comma
 
 To start the server, run the `server.py` file. The server listens for incoming client connections and allows you to send commands.
 
+Input the server port when prompted.
+The server will wait for client connections.
+
 ```bash
 python server.py
+```
+### Starting the Client
+
+To start the client, run the client.py file. The client connects to the server and executes commands.
+
+```bash
+python client.py
+```
+
+Input the server's IP address and port when prompted.
+The client will receive commands from the server and send back the execution output.
