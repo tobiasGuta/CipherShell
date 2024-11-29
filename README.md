@@ -63,3 +63,7 @@ python client.py
 
 Input the server's IP address and port when prompted.
 The client will receive commands from the server and send back the execution output.
+
+### Security
+SSL Encryption: All communication between the server and client is encrypted using SSL, ensuring secure data transmission.
+Custom SSL Certificates: You can provide your own SSL certificates by replacing server.crt and server.key for enhanced security in production.
