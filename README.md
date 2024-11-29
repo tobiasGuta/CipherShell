@@ -33,12 +33,6 @@ SecureExec is a secure client-server communication tool that allows remote comma
     cd CipherShell
     ```
 
-2. Install dependencies (if any are required in the future):
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ---
 
 ## Usage
