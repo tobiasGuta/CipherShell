@@ -29,8 +29,8 @@ SecureExec is a secure client-server communication tool that allows remote comma
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/SecureExec.git
-    cd SecureExec
+    git clone https://github.com/tobiasGuta/CipherShell.git
+    cd CipherShell
     ```
 
 2. Install dependencies (if any are required in the future):
